@@ -10,16 +10,19 @@ Welcome to my GitHub! 🚀 I'm **Chawanangwa**, the **Owner** of **Alpha C Techn
 - 🌍 **Innovator**: Always learning, building, and striving to push the boundaries of technology.
   
 ## 🔧 Technologies I Love
-- ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) **C++**
-- ![Go](https://upload.wikimedia.org/wikipedia/commons/4/47/Go_Logo.svg) **Go**
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) **JavaScript (Node.js, React)**
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) **Node.js**
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React**
-- ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg) **Django**
-- ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/4f/MongoDB-Logo.svg) **MongoDB**
-- ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/6a/MySQL_logo.svg) **MySQL**
-- ![Docker](https://upload.wikimedia.org/wikipedia/commons/a/a6/Docker_icon.svg) **Docker**
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/230px-Go_Logo_Blue.svg.png" alt="Go" width="130"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="130"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/250px-MongoDB_Fores-Green.svg.png" alt="MongoDB" width="160" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" alt="MySQL" width="130"/>
+  <img src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png" alt="Docker" width="70"/>
+</p>
 
 ## 🔥 Currently Working On
 I’m currently diving into exciting projects that aim to revolutionize the tech space! Stay tuned for my contributions on various software solutions and innovative approaches.
