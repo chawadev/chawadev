@@ -34,7 +34,7 @@ Feel free to reach out to me if you want to collaborate on an exciting project o
 
 ---
 
-Let me know if you'd like any further customizations or additional sections!
+
 <!--
 **chawadev/chawadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
