@@ -8,7 +8,7 @@ Welcome to my GitHub! 🚀 I'm **Chawanangwa**, the **Owner** of **Alpha C Techn
 - 💻 **Full-Stack Development**: Crafting scalable, efficient, and user-friendly applications systems with the following stack.
 - **Backend: Go + PostgreSQL + Redis + gRPC**
 - **Frontend: TypeScript + React (Next.js) + Tailwind CSS**
-- **Mobile: Flutter (or Kotlin/Swift for native apps)**
+- **Mobile: Flutter and Kotlin + Swift for native apps**
 - **Cloud & DevOps: Docker, Kubernetes, AWS/GC**
 - 🚀 **Tech Leadership**: Steering cutting-edge projects as a CTO.
 - 🌍 **Innovator**: Always learning, building, and striving to push the boundaries of technology.
